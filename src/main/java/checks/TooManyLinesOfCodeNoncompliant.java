@@ -1,0 +1,10 @@
+package checks;/*
+ *
+ *
+ */
+
+
+
+
+class TooManyLinesOfCode {
+}
